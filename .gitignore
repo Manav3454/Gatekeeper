@@ -1,0 +1,24 @@
+# Maven
+**/target/
+
+# IntelliJ IDEA
+.idea/
+**/.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse / STS
+.classpath
+.project
+.settings/
+.sts4-cache/
+.springBeans
+.apt_generated/
+.factorypath
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
